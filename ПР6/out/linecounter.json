@@ -1,0 +1,1576 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "d:\\KPI_4\\Economics\\ПР6",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2024-11-15 16:10:02",
+            "filesum": 226,
+            "codesum": 26962,
+            "commentsum": 226,
+            "blanksum": 629,
+            "statistics": {
+                ".json": {
+                    "code": 23413,
+                    "comment": 0,
+                    "blank": 21
+                },
+                ".js": {
+                    "code": 2859,
+                    "comment": 159,
+                    "blank": 518
+                },
+                ".html": {
+                    "code": 652,
+                    "comment": 63,
+                    "blank": 81
+                },
+                ".yaml": {
+                    "code": 6,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".md": {
+                    "code": 29,
+                    "comment": 4,
+                    "blank": 9
+                },
+                "": {
+                    "code": 3,
+                    "comment": 0,
+                    "blank": 0
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "shop\\.github\\CODEOWNERS"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "shop\\.gitignore"
+                },
+                {
+                    "filename": "shop\\data\\images\\10-11017A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-11017B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-11019A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-11019B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13018A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13018B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13058A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13058B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13097A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13097B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13130A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13130B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13153A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13153B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13213A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13213B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13239A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13239B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13240A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13240B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13241A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13241B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13256A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13256B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13260A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13260B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13262A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13262B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13263A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13263B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13264A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13264B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13265A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13265B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13266A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13266B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13267A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13267B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13268A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13268B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13269A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13269B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13270A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13270B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13271A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13271B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13272A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13272B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13273A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13273B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13274A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13274B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13275A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13275B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13276A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13276B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13277A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13277B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13278A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13278B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13279A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13279B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13280A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13280B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13282A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13282B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13285A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13285B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13286A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13286B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13288A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13288B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13289A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13289B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13290A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13290B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13291A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13291B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13292A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-13292B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14133A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14133B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14146A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14146B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14152A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14152B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14153A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14153B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14154A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14154B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14155A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14155B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14157A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14157B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14158A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14158B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14159A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14159B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14160A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14160B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14215A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14215B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14216A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14216B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14217A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-14217B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-15041A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-15041B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-15068A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-15068B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-15103A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-15103B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23069A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23069B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23073A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23073B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23169A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23169B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23171A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23171B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23172A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23172B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23173A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23173B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23174A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23174B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23176A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23176B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23177A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23177B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23178A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23178B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23179A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23179B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23180A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23180B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23198A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23198B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23225A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23225B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23226A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23226B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23227A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23227B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23228A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23228B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23229A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23229B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23230A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-23230B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-24097A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-24097B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-24098A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-24098B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-24099A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-24099B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-24101A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-24101B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-24102A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-24102B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-25058A.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\data\\images\\10-25058B.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 56,
+                    "comment": 0,
+                    "filename": "shop\\data\\ladies_outerwear.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 173,
+                    "comment": 0,
+                    "filename": "shop\\data\\ladies_tshirts.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 146,
+                    "comment": 0,
+                    "filename": "shop\\data\\mens_outerwear.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 362,
+                    "comment": 0,
+                    "filename": "shop\\data\\mens_tshirts.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "shop\\data\\sample_error_response.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "shop\\data\\sample_success_response.json"
+                },
+                {
+                    "blank": 6,
+                    "code": 21,
+                    "comment": 16,
+                    "filename": "shop\\gulpfile.js"
+                },
+                {
+                    "filename": "shop\\images\\ladies_outerwear.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\images\\ladies_tshirts.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\images\\mens_outerwear.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\images\\mens_tshirts.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\images\\shop-icon-128.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\images\\shop-icon-192.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\images\\shop-icon-32.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\images\\shop-icon-384.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "shop\\images\\shop-icon-512.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 12,
+                    "code": 47,
+                    "comment": 9,
+                    "filename": "shop\\index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "shop\\manifest.json"
+                },
+                {
+                    "blank": 15,
+                    "code": 21260,
+                    "comment": 0,
+                    "filename": "shop\\package-lock.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 48,
+                    "comment": 0,
+                    "filename": "shop\\package.json"
+                },
+                {
+                    "blank": 5,
+                    "code": 70,
+                    "comment": 0,
+                    "filename": "shop\\polymer.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 77,
+                    "comment": 0,
+                    "filename": "shop\\push-manifest.json"
+                },
+                {
+                    "blank": 9,
+                    "code": 29,
+                    "comment": 4,
+                    "filename": "shop\\README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "shop\\server\\app.yaml"
+                },
+                {
+                    "blank": 0,
+                    "code": 1176,
+                    "comment": 0,
+                    "filename": "shop\\server\\package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "shop\\server\\package.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 9,
+                    "filename": "shop\\service-worker.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 14,
+                    "filename": "shop\\src\\lazy-resources.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "shop\\src\\shop-404-warning.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 11,
+                    "comment": 1,
+                    "filename": "shop\\src\\shop-analytics.js"
+                },
+                {
+                    "blank": 57,
+                    "code": 322,
+                    "comment": 20,
+                    "filename": "shop\\src\\shop-app.js"
+                },
+                {
+                    "blank": 12,
+                    "code": 55,
+                    "comment": 1,
+                    "filename": "shop\\src\\shop-button.js"
+                },
+                {
+                    "blank": 17,
+                    "code": 79,
+                    "comment": 3,
+                    "filename": "shop\\src\\shop-cart-data.js"
+                },
+                {
+                    "blank": 39,
+                    "code": 191,
+                    "comment": 0,
+                    "filename": "shop\\src\\shop-cart-item.js"
+                },
+                {
+                    "blank": 25,
+                    "code": 128,
+                    "comment": 1,
+                    "filename": "shop\\src\\shop-cart-modal.js"
+                },
+                {
+                    "blank": 21,
+                    "code": 81,
+                    "comment": 1,
+                    "filename": "shop\\src\\shop-cart.js"
+                },
+                {
+                    "blank": 19,
+                    "code": 114,
+                    "comment": 6,
+                    "filename": "shop\\src\\shop-category-data.js"
+                },
+                {
+                    "blank": 10,
+                    "code": 65,
+                    "comment": 2,
+                    "filename": "shop\\src\\shop-checkbox.js"
+                },
+                {
+                    "blank": 74,
+                    "code": 531,
+                    "comment": 64,
+                    "filename": "shop\\src\\shop-checkout.js"
+                },
+                {
+                    "blank": 11,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "shop\\src\\shop-common-styles.js"
+                },
+                {
+                    "blank": 26,
+                    "code": 161,
+                    "comment": 0,
+                    "filename": "shop\\src\\shop-detail.js"
+                },
+                {
+                    "blank": 8,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "shop\\src\\shop-form-styles.js"
+                },
+                {
+                    "blank": 21,
+                    "code": 109,
+                    "comment": 0,
+                    "filename": "shop\\src\\shop-home.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "shop\\src\\shop-icons.js"
+                },
+                {
+                    "blank": 16,
+                    "code": 60,
+                    "comment": 0,
+                    "filename": "shop\\src\\shop-image.js"
+                },
+                {
+                    "blank": 29,
+                    "code": 168,
+                    "comment": 8,
+                    "filename": "shop\\src\\shop-input.js"
+                },
+                {
+                    "blank": 15,
+                    "code": 47,
+                    "comment": 0,
+                    "filename": "shop\\src\\shop-list-item.js"
+                },
+                {
+                    "blank": 22,
+                    "code": 134,
+                    "comment": 3,
+                    "filename": "shop\\src\\shop-list.js"
+                },
+                {
+                    "blank": 8,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "shop\\src\\shop-network-warning.js"
+                },
+                {
+                    "blank": 12,
+                    "code": 50,
+                    "comment": 1,
+                    "filename": "shop\\src\\shop-ripple-container.js"
+                },
+                {
+                    "blank": 13,
+                    "code": 88,
+                    "comment": 2,
+                    "filename": "shop\\src\\shop-select.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 61,
+                    "comment": 0,
+                    "filename": "shop\\src\\shop-snackbar.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 37,
+                    "comment": 0,
+                    "filename": "shop\\src\\shop-tab.js"
+                },
+                {
+                    "blank": 24,
+                    "code": 143,
+                    "comment": 5,
+                    "filename": "shop\\src\\shop-tabs-overlay.js"
+                },
+                {
+                    "blank": 10,
+                    "code": 36,
+                    "comment": 0,
+                    "filename": "shop\\src\\shop-tabs.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 17,
+                    "comment": 2,
+                    "filename": "shop\\sw-precache-config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 20,
+                    "comment": 9,
+                    "filename": "shop\\test\\index.html"
+                },
+                {
+                    "blank": 14,
+                    "code": 122,
+                    "comment": 9,
+                    "filename": "shop\\test\\shop-cart.html"
+                },
+                {
+                    "blank": 12,
+                    "code": 100,
+                    "comment": 9,
+                    "filename": "shop\\test\\shop-checkout.html"
+                },
+                {
+                    "blank": 14,
+                    "code": 108,
+                    "comment": 9,
+                    "filename": "shop\\test\\shop-detail.html"
+                },
+                {
+                    "blank": 13,
+                    "code": 106,
+                    "comment": 9,
+                    "filename": "shop\\test\\shop-home.html"
+                },
+                {
+                    "blank": 15,
+                    "code": 149,
+                    "comment": 9,
+                    "filename": "shop\\test\\shop-list.html"
+                }
+            ]
+        }
+    ]
+}
